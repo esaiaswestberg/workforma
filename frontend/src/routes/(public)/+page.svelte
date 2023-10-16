@@ -1,1 +1,5 @@
-<h1>Workforma</h1>
+<script lang="ts">
+  import Header from '../../components/navigation/Header.svelte'
+</script>
+
+<Header />
