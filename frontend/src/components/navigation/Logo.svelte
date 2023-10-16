@@ -5,16 +5,18 @@
 <style>
   #container {
     display: flex;
+
     justify-content: start;
     align-items: center;
+
     height: 100%;
     text-decoration: none;
   }
 
   #title {
-    letter-spacing: 0.1rem;
     font-size: 1.5rem;
-    font-weight: 700;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
     color: #223;
   }
 </style>

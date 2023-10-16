@@ -1,10 +1,11 @@
 <script lang="ts">
   import Logo from '$components/navigation/Logo.svelte'
+  import Navigation from '$components/navigation/Navigation.svelte'
 </script>
 
 <header id="header">
   <Logo />
-  <div id="navigation-container">...</div>
+  <Navigation />
 </header>
 
 <style>
