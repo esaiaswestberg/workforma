@@ -3,8 +3,7 @@
 </script>
 
 <ul id="navigation">
-  <NavigationItem href="/" text="Home" title="Home page" />
-  <NavigationItem href="/dashboard" text="Dashboard" title="Administration dashboard" />
+  <NavigationItem href="/app" text="App" title="Workforma dashboard" />
 </ul>
 
 <style>
